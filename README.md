@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on frontend, backend, machine learning, as well as IOT projects.
 - 📫 Reach me at reachgaurisingh@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am a newbie in the world of tech, but always open to learning!
+- ⚡ Fun fact: I am a newbie in the world of tech, learning and adapting like crazy , and its so much fun !
 
 <!---
 Gauri-codes-here/Gauri-codes-here is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Gauri-codes-here
 - 👀 I’m interested in web-development, databases etc.
-- 🌱 I’m currently learning data science and applications at IIT,Madras.
+- 🌱 I’m currently learning pursuing my B.Tech in Electronics.
 - 💞️ I’m looking to collaborate on frontend, backend, machine learning, as well as IOT projects.
 - 📫 Reach me at reachgaurisingh@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am a newbie in the world of tech, learning and adapting like crazy , and its so much fun !
+
 
 <!---
 Gauri-codes-here/Gauri-codes-here is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

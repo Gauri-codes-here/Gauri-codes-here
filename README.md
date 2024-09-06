@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Gauri-codes-here
-- 👀 I’m interested in web-development, databases etc.
-- 🌱 I’m currently learning pursuing my B.Tech in Electronics.
-- 💞️ I’m looking to collaborate on frontend, backend, machine learning, as well as IOT projects.
+- 👀 I’m interested in web-development, DSA etc.
+- 🌱 I’m currently pursuing my B.Tech in Electronics.
 - 📫 Reach me at reachgaurisingh@gmail.com
 - 😄 Pronouns: she/her
 
